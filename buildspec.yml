@@ -5,5 +5,4 @@ run-as: root
 phases:
   build:
     commands:
-      - cat README.md
-      - pwd
+      - docker container ls
