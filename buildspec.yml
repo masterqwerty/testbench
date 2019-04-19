@@ -6,3 +6,4 @@ phases:
   build:
     commands:
       - cat README.md
+      - pwd
